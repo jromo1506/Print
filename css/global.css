@@ -19424,6 +19424,11 @@ a#back_to_top.button .button_icon {
 	opacity: 1;
 }
 /* Code Hightlighter ----------------------------------------------------------------- */
+.rectanglev{
+	width: 49px;
+	height: 4px;
+	background-color: rgb(255, 0, 0);;
+}
 
 code, pre, q {
 	font-family: Consolas, monospace!important;
