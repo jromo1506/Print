@@ -1,5 +1,5 @@
 #Footer {
-	background-image: url(../images/home_print_pattern1.png);
+	/* background-image: url(../images/home_print_pattern1.png); */
 	background-repeat: repeat;
 	background-position: center top;
 }
@@ -729,7 +729,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	border-top-color: #e8e8eb;
 }
 #Footer {
-	background-color: #e8e8eb;
+	/* background-color: #e8e8eb; */
 }
 body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc {
 	color: #626262;
@@ -2540,3 +2540,16 @@ p.flv_align_right, div.flv_align_right {
 .slotholder {
 	transform: none !important
 }
+.imagen-productos {
+	height: 300px !important;
+	object-fit: cover;
+}
+/* .imagen-nosotros {
+	height: 300px !important;
+	object-fit: cover;
+} */
+ .personas {
+	width: 80px !important;
+	height: 80px !important;
+	object-fit: cover;
+ }
