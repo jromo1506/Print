@@ -2553,3 +2553,9 @@ p.flv_align_right, div.flv_align_right {
 	height: 80px !important;
 	object-fit: cover;
  }
+
+ .persona-contact {
+	max-width: 100%;
+	height: 200px !important;
+	object-fit: cover;
+ }
