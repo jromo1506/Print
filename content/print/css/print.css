@@ -2559,3 +2559,7 @@ p.flv_align_right, div.flv_align_right {
 	height: 200px !important;
 	object-fit: cover;
  }
+ .imagen-ml {
+	width: 30%;
+	margin: 0 auto;
+ }
